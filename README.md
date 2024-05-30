@@ -1,3 +1,16 @@
+This code is very outdated and will be erased after review.
+
+There can be some hardcoded stuff that I could forget to remove (like account IDs and Arns, which should be provided via Github actions)
+
+this code is only a representation of my local code. 
+
+also
+
+I use my own  RDS record from different registers, so you should create your domain name.
+
+
+
+
 # Pgadmin + rds deployment.
 
 This terraform module deploys a database and pgadmin frontend to manage RDS.
